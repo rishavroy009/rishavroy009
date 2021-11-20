@@ -67,7 +67,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rishavkrroy/"target=“_blank”><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/rishavkrroy/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/RishavRoy009"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rishavroy009"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://bio.link/rishav009"><img src="https://img.icons8.com/fluency/48/000000/link.png"/></a>
