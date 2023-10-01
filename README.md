@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **Web Development and DevOps**
+- 🌱 I’m currently learning **Web Development and Data Structures**
 
 <!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
 
